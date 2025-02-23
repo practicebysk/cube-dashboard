@@ -8,7 +8,9 @@
 
 # Node
 /node_modules
-/.env
+environment.ts
+src/environments
+src/environments
 npm-debug.log
 yarn-error.log
 
